@@ -5,18 +5,11 @@
 
 Structure the repo like this:
 
--DCT.ipynb
-
--SVD.ipynb
-
--PCA.ipynb
-
--Kodak
-
--Dataset4K
-
--.gotignore
-
--README.md
-
+|-DCT.ipynb__
+|-SVD.ipynb__
+|-PCA.ipynb__
+|-Kodak__
+|-Dataset4K__
+|-.gotignore__
+|-README.md__
 No special requirements to run the scripts. If the files are structured as described above, you can run the scripts on each of the datasets as described in the code.
