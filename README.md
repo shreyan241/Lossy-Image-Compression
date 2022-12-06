@@ -12,6 +12,7 @@ The code reporository is structured as follows-:
 |-DCT.ipynb <br />
 |-SVD.ipynb <br />
 |-PCA.ipynb <br />
+|-PCA_4k.ipynb <br />
 |-Kodak <br />
 |-Dataset4K <br />
 |-.gotignore <br />
